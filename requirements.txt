@@ -1,0 +1,6 @@
+sqlalchemy
+polars
+pyarrow
+openpyxl
+tqdm
+typer[all]
